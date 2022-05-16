@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/pwamap/static/css/main.c570c0c2.chunk.css",
-    "main.js": "/pwamap/static/js/main.7062275e.chunk.js",
-    "main.js.map": "/pwamap/static/js/main.7062275e.chunk.js.map",
+    "main.js": "/pwamap/static/js/main.a6078d22.chunk.js",
+    "main.js.map": "/pwamap/static/js/main.a6078d22.chunk.js.map",
     "runtime-main.js": "/pwamap/static/js/runtime-main.4f15adb6.js",
     "runtime-main.js.map": "/pwamap/static/js/runtime-main.4f15adb6.js.map",
-    "static/js/2.f100c37b.chunk.js": "/pwamap/static/js/2.f100c37b.chunk.js",
-    "static/js/2.f100c37b.chunk.js.map": "/pwamap/static/js/2.f100c37b.chunk.js.map",
+    "static/js/2.9d7b5f22.chunk.js": "/pwamap/static/js/2.9d7b5f22.chunk.js",
+    "static/js/2.9d7b5f22.chunk.js.map": "/pwamap/static/js/2.9d7b5f22.chunk.js.map",
     "index.html": "/pwamap/index.html",
     "service-worker.js": "/pwamap/service-worker.js",
     "service-worker.js.map": "/pwamap/service-worker.js.map",
     "static/css/main.c570c0c2.chunk.css.map": "/pwamap/static/css/main.c570c0c2.chunk.css.map",
-    "static/js/2.f100c37b.chunk.js.LICENSE.txt": "/pwamap/static/js/2.f100c37b.chunk.js.LICENSE.txt"
+    "static/js/2.9d7b5f22.chunk.js.LICENSE.txt": "/pwamap/static/js/2.9d7b5f22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f15adb6.js",
-    "static/js/2.f100c37b.chunk.js",
+    "static/js/2.9d7b5f22.chunk.js",
     "static/css/main.c570c0c2.chunk.css",
-    "static/js/main.7062275e.chunk.js"
+    "static/js/main.a6078d22.chunk.js"
   ]
 }

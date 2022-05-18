@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pwamap/static/css/main.c570c0c2.chunk.css",
-    "main.js": "/pwamap/static/js/main.eb63032d.chunk.js",
-    "main.js.map": "/pwamap/static/js/main.eb63032d.chunk.js.map",
+    "main.css": "/pwamap/static/css/main.fb8b86d4.chunk.css",
+    "main.js": "/pwamap/static/js/main.6f60cdad.chunk.js",
+    "main.js.map": "/pwamap/static/js/main.6f60cdad.chunk.js.map",
     "runtime-main.js": "/pwamap/static/js/runtime-main.4f15adb6.js",
     "runtime-main.js.map": "/pwamap/static/js/runtime-main.4f15adb6.js.map",
     "static/js/2.d7681b2c.chunk.js": "/pwamap/static/js/2.d7681b2c.chunk.js",
@@ -10,13 +10,13 @@
     "index.html": "/pwamap/index.html",
     "service-worker.js": "/pwamap/service-worker.js",
     "service-worker.js.map": "/pwamap/service-worker.js.map",
-    "static/css/main.c570c0c2.chunk.css.map": "/pwamap/static/css/main.c570c0c2.chunk.css.map",
+    "static/css/main.fb8b86d4.chunk.css.map": "/pwamap/static/css/main.fb8b86d4.chunk.css.map",
     "static/js/2.d7681b2c.chunk.js.LICENSE.txt": "/pwamap/static/js/2.d7681b2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f15adb6.js",
     "static/js/2.d7681b2c.chunk.js",
-    "static/css/main.c570c0c2.chunk.css",
-    "static/js/main.eb63032d.chunk.js"
+    "static/css/main.fb8b86d4.chunk.css",
+    "static/js/main.6f60cdad.chunk.js"
   ]
 }
